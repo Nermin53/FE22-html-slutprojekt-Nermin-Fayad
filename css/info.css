@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(217, 213, 213);
+}
+
+*{
+    background-color: rgb(233, 233, 233);
+    font-style: italic;
+    text-decoration-color: rgb(45, 47, 48);
+}
